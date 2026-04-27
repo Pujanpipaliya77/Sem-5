@@ -1,0 +1,5 @@
+Linear Search:
+Element 8 found at index 3
+
+Binary Search:
+Element 8 found at index 3
